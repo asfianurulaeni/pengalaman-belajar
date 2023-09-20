@@ -6,3 +6,10 @@ Belajar Kelas Belajar Dasar Structured Query Language (SQL). (Progress 100%)
 * Database Management System
 * Pengenalan Structured Query Language
 * Basic Query
+
+21 September 2023
+Belajar Dasar Git dengan Github. (Progress 39%)
+* Persiapan Belajar
+* Git dan GitHub
+* Dasar Git
+* Studi Kasus Pengalaman Belajar
