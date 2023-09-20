@@ -13,3 +13,11 @@ Belajar Dasar Git dengan Github. (Progress 39%)
 * Git dan GitHub
 * Dasar Git
 * Studi Kasus Pengalaman Belajar
+
+**21 September 2023**<br>
+Belajar Dasar Git dengan GitHub. (Progress 100%)
+* Git Branches
+* Kolaborasi dengan Tim
+* Studi Kasus Kolaborasi dengan Tim
+* GitHub sebagai Portofolio
+* Penutup
